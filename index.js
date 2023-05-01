@@ -9,6 +9,12 @@ app.get('/', (req, res) => {
     res.send('Chef is running.')
 })
 
+app.get('/chef', (req, res) => {
+    res.send(allChef)
+})
+
+
+
 
 
 
