@@ -1,0 +1,296 @@
+[
+    {
+        "id": "834KJP",
+        "chef_name": "Jessica Nguyen",
+        "chef_image": "https://example.com/chef1.jpg",
+        "experience": "10+ years",
+        "likes": 1000,
+        "short_description": "Chef Jessica is known for her innovative and fusion dishes that combine traditional Oceania flavors with modern techniques and ingredients.",
+        "recipes": [
+            {
+                "recipe_id": "01recipeID",
+                "recipe_name": "Poke Bowl",
+                "ingredients": [
+                    "Ahi tuna",
+                    "Soy sauce",
+                    "Rice vinegar",
+                    "Cucumber",
+                    "Edamame"
+                ],
+                "cooking_method": "Dice the tuna and mix with soy sauce and rice vinegar. Serve over a bed of rice and top with sliced cratingucumber and edamame.",
+                "": 4.5
+            },
+            {
+                "recipe_id": "02recipeID",
+                "recipe_name": "Grilled Mahi Mahi",
+                "ingredients": [
+                    "Mahi mahi fillets",
+                    "Lemon",
+                    "Garlic",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cooking_method": "Season the fish with salt and brush with olive oil. Grill over medium-high heat until cooked through, about 4-5 minutes per side. Serve with a squeeze of lemon and garlic.",
+                "rating": 4.2
+            },
+            {
+                "recipe_id": "03recipeID",
+                "recipe_name": "Coconut Curry Chicken",
+                "ingredients": [
+                    "Chicken breast",
+                    "Coconut milk",
+                    "Red curry paste",
+                    "Carrot",
+                    "Potato"
+                ],
+                "cooking_method": "Cook the chicken in a large skillet until browned. Add the curry paste and stir. Pour in the coconut milk and add the chopped carrot and potato. Simmer until the vegetables are tender.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": "156FTE",
+        "chef_name": "Samuel Wong",
+        "chef_image": "https://example.com/chef2.jpg",
+        "experience": "15+ years",
+        "likes": 1200,
+        "short_description": "Chef Samuel is a master of Pacific Rim cuisine, blending the diverse culinary traditions of Oceania with his own unique flair.",
+        "recipes": [
+            {
+                "recipe_id": "04recipeID",
+                "recipe_name": "Seared Scallops",
+                "ingredients": [
+                    "Scallops",
+                    "Butter",
+                    "Garlic",
+                    "Lemon",
+                    "Salt"
+                ],
+                "cooking_method": "Pat the scallops dry and season with salt. Melt butter in a skillet over medium-high heat. Add scallops and sear until golden brown, about 2-3 minutes per side. Add minced garlic and lemon juice to the pan and cook for another minute.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "05recipeID",
+                "recipe_name": "Lobster Bisque",
+                "ingredients": [
+                    "Lobster",
+                    "Onion",
+                    "Carrot",
+                    "Celery",
+                    "Heavy cream"
+                ],
+                "cooking_method": "Saute onion, carrot, and celery until softened. Add lobster shells and simmer for 10 minutes. Add water and simmer for another 30 minutes. Strain the broth and add heavy cream. Add the chopped lobster meat and simmer for a few more minutes.",
+                "rating": 4.4
+            },
+            {
+                "recipe_id": "06recipeID",
+                "recipe_name": "Taro Pudding",
+                "ingredients": [
+                    "Taro",
+                    "Coconut milk",
+                    "Sugar",
+                    "Cornstarch",
+                    "Vanilla extract"
+                ],
+                "cooking_method": "Steam peeled and diced taro until soft. Mix cornstarch and sugar in a separate bowl. Heat coconut milk in a saucepan and stir in the cornstarch mixture. Add the cooked taro and vanilla extract. Cook until thickened.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": "972RGN",
+        "chef_name": "Ava Patel",
+        "chef_image": "https://example.com/chef3.jpg",
+        "experience": "12+ years",
+        "likes": 950,
+        "short_description": "Chef Ava is passionate about showcasing the diverse flavors and ingredients of Oceania, and loves to experiment with fusion dishes that push boundaries.",
+        "recipes": [
+            {
+                "recipe_id": "07recipeID",
+                "recipe_name": "Teriyaki Salmon",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Soy sauce",
+                    "Honey",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "cooking_method": "Whisk soy sauce, honey, minced garlic, and grated ginger together in a bowl. Pour the marinade over the salmon and let sit for at least 30 minutes. Preheat the oven to 400 degrees F. Bake the salmon for 12-15 minutes, basting with the marinade halfway through.",
+                "rating": 4.3
+            },
+            {
+                "recipe_id": "08recipeID",
+                "recipe_name": "Green Papaya Salad",
+                "ingredients": [
+                    "Green papaya",
+                    "Tomatoes",
+                    "Fish sauce",
+                    "Lime juice",
+                    "Peanuts"
+                ],
+                "cooking_method": "Peel and shred the green papaya. Toss with diced tomatoes, fish sauce, and lime juice. Top with chopped peanuts.",
+                "rating": 4.1
+            },
+            {
+                "recipe_id": "09recipeID",
+                "recipe_name": "Beef Rendang",
+                "ingredients": [
+                    "Beef",
+                    "Coconut milk",
+                    "Lemongrass",
+                    "Galangal",
+                    "Turmeric"
+                ],
+                "cooking_method": "Brown the beef in a large skillet. Add chopped lemongrass, galangal, and turmeric. Pour in coconut milk and simmer until the beef is tender and the sauce is thick.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": "213LXM",
+        "chef_name": "Julio Hernandez",
+        "chef_image": "https://example.com/chef4.jpg",
+        "experience": "20+ years",
+        "likes": 1800,
+        "short_description": "Chef Julio is a master of traditional Mexican cuisine, using fresh, locally-sourced ingredients to create bold and flavorful dishes.",
+        "recipes": [
+            {
+                "recipe_id": "10recipeID",
+                "recipe_name": "Chiles Rellenos",
+                "ingredients": [
+                    "Poblano peppers",
+                    "Ground beef",
+                    "Onion",
+                    "Garlic",
+                    "Tomatoes"
+                ],
+                "cooking_method": "Roast the peppers and remove the skin. Cook ground beef, onion, and garlic in a skillet. Stuff the peppers with the beef mixture. Puree tomatoes and pour over the peppers. Bake in the oven for 20-25 minutes.",
+                "rating": 4.8
+            },
+            {
+                "recipe_id": "11recipeID",
+                "recipe_name": "Pico de Gallo",
+                "ingredients": [
+                    "Tomatoes",
+                    "Onion",
+                    "Jalapeno",
+                    "Cilantro",
+                    "Lime juice"
+                ],
+                "cooking_method": "Dice tomatoes, onion, and jalapeno. Chop cilantro. Mix all ingredients together in a bowl. Squeeze lime juice over the top and stir.",
+                "rating": 4.6
+            },
+            {
+                "recipe_id": "12recipeID",
+                "recipe_name": "Enchiladas Verdes",
+                "ingredients": [
+                    "Corn tortillas",
+                    "Chicken",
+                    "Sour cream",
+                    "Salsa verde",
+                    "Queso fresco"
+                ],
+                "cooking_method": "Cook and shred chicken. Mix with sour cream. Heat salsa verde in a skillet. Dip tortillas in the salsa and fill with the chicken mixture. Roll up and place in a baking dish. Top with more salsa and queso fresco. Bake in the oven for 20-25 minutes.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": "745DQO",
+        "chef_name": "Anna Lee",
+        "chef_image": "https://example.com/chef5.jpg",
+        "experience": "15+ years",
+        "likes": 2500,
+        "short_description": "Chef Anna specializes in vegan and vegetarian cuisine, using innovative techniques and fresh, seasonal ingredients to create delicious and healthy dishes.",
+        "recipes": [
+            {
+                "recipe_id": "13recipeID",
+                "recipe_name": "Mushroom Risotto",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Onion",
+                    "Garlic",
+                    "Vegetable broth"
+                ],
+                "cooking_method": "Saute mushrooms, onion, and garlic in a skillet. Add arborio rice and stir to coat. Slowly add vegetable broth, stirring constantly until absorbed. Repeat until rice is cooked through. Serve hot.",
+                "rating": 4.9
+            },
+            {
+                "recipe_id": "14recipeID",
+                "recipe_name": "Roasted Beet Salad",
+                "ingredients": [
+                    "Beets",
+                    "Baby spinach",
+                    "Walnuts",
+                    "Goat cheese",
+                    "Balsamic vinaigrette"
+                ],
+                "cooking_method": "Roast beets in the oven. Toss baby spinach with balsamic vinaigrette. Top with sliced beets, chopped walnuts, and crumbled goat cheese. Serve chilled.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "15recipeID",
+                "recipe_name": "Vegan Shepherd's Pie",
+                "ingredients": [
+                    "Lentils",
+                    "Potatoes",
+                    "Carrots",
+                    "Celery",
+                    "Vegetable broth"
+                ],
+                "cooking_method": "Cook lentils in vegetable broth until tender. Mash potatoes and mix with steamed carrots and celery. Layer lentils on the bottom of a baking dish and top with the potato mixture. Bake in the oven for 20-25 minutes.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": "689VYH",
+        "chef_name": "Simon Chen",
+        "chef_image": "https://example.com/chef6.jpg",
+        "experience": "25+ years",
+        "likes": 3500,
+        "short_description": "Chef Simon is a master of fusion cuisine, blending traditional Chinese cooking techniques with modern ingredients to create bold and flavorful dishes.",
+        "recipes": [
+            {
+                "recipe_id": "16recipeID",
+                "recipe_name": "General Tso's Chicken Tacos",
+                "ingredients": [
+                    "Chicken thighs",
+                    "Flour tortillas",
+                    "Soy sauce",
+                    "Sriracha",
+                    "Sesame oil"
+                ],
+                "cooking_method": "Cook chicken thighs in a skillet. Mix soy sauce, Sriracha, and sesame oil to create a sauce. Toss the chicken in the sauce. Warm the tortillas and fill with the chicken mixture. Top with sliced scallions and cilantro.",
+                "rating": 4.9
+            },
+            {
+                "recipe_id": "17recipeID",
+                "recipe_name": "Miso-glazed Cod",
+                "ingredients": [
+                    "Cod fillets",
+                    "Miso paste",
+                    "Honey",
+                    "Rice vinegar",
+                    "Ginger"
+                ],
+                "cooking_method": "Mix miso paste, honey, rice vinegar, and grated ginger. Spread the mixture over cod fillets. Bake in the oven for 10-12 minutes. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "18recipeID",
+                "recipe_name": "Beef and Broccoli Stir-fry",
+                "ingredients": [
+                    "Flank steak",
+                    "Broccoli",
+                    "Garlic",
+                    "Ginger",
+                    "Soy sauce"
+                ],
+                "cooking_method": "Slice flank steak and marinate in soy sauce. Blanch broccoli in boiling water. Heat garlic and ginger in a wok. Add the beef and stir-fry until cooked. Add the broccoli and stir-fry for a few more minutes. Serve hot.",
+                "rating": 4.8
+            }
+        ]
+    }
+]
