@@ -2,7 +2,7 @@
     {
         "id": "834KJP",
         "chef_name": "Jessica Nguyen",
-        "chef_image": "https://example.com/chef1.jpg",
+        "chef_image": "https://i.ibb.co/ysdL0fd/chef6.png",
         "experience": "10+ years",
         "likes": 1000,
         "short_description": "Chef Jessica is known for her innovative and fusion dishes that combine traditional Oceania flavors with modern techniques and ingredients.",
@@ -10,6 +10,7 @@
             {
                 "recipe_id": "01recipeID",
                 "recipe_name": "Poke Bowl",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Ahi tuna",
                     "Soy sauce",
@@ -23,6 +24,7 @@
             {
                 "recipe_id": "02recipeID",
                 "recipe_name": "Grilled Mahi Mahi",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Mahi mahi fillets",
                     "Lemon",
@@ -36,6 +38,7 @@
             {
                 "recipe_id": "03recipeID",
                 "recipe_name": "Coconut Curry Chicken",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Chicken breast",
                     "Coconut milk",
@@ -51,7 +54,7 @@
     {
         "id": "156FTE",
         "chef_name": "Samuel Wong",
-        "chef_image": "https://example.com/chef2.jpg",
+        "chef_image": "https://i.ibb.co/pfkkSNd/chef2.png",
         "experience": "15+ years",
         "likes": 1200,
         "short_description": "Chef Samuel is a master of Pacific Rim cuisine, blending the diverse culinary traditions of Oceania with his own unique flair.",
@@ -59,6 +62,7 @@
             {
                 "recipe_id": "04recipeID",
                 "recipe_name": "Seared Scallops",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Scallops",
                     "Butter",
@@ -72,6 +76,7 @@
             {
                 "recipe_id": "05recipeID",
                 "recipe_name": "Lobster Bisque",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Lobster",
                     "Onion",
@@ -85,6 +90,7 @@
             {
                 "recipe_id": "06recipeID",
                 "recipe_name": "Taro Pudding",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Taro",
                     "Coconut milk",
@@ -100,7 +106,7 @@
     {
         "id": "972RGN",
         "chef_name": "Ava Patel",
-        "chef_image": "https://example.com/chef3.jpg",
+        "chef_image": "https://i.ibb.co/2WGnv9T/chef3.png",
         "experience": "12+ years",
         "likes": 950,
         "short_description": "Chef Ava is passionate about showcasing the diverse flavors and ingredients of Oceania, and loves to experiment with fusion dishes that push boundaries.",
@@ -108,6 +114,7 @@
             {
                 "recipe_id": "07recipeID",
                 "recipe_name": "Teriyaki Salmon",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Salmon fillets",
                     "Soy sauce",
@@ -121,6 +128,7 @@
             {
                 "recipe_id": "08recipeID",
                 "recipe_name": "Green Papaya Salad",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Green papaya",
                     "Tomatoes",
@@ -134,6 +142,7 @@
             {
                 "recipe_id": "09recipeID",
                 "recipe_name": "Beef Rendang",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Beef",
                     "Coconut milk",
@@ -149,7 +158,7 @@
     {
         "id": "213LXM",
         "chef_name": "Julio Hernandez",
-        "chef_image": "https://example.com/chef4.jpg",
+        "chef_image": "https://i.ibb.co/0QQKc8v/chef5.png",
         "experience": "20+ years",
         "likes": 1800,
         "short_description": "Chef Julio is a master of traditional Mexican cuisine, using fresh, locally-sourced ingredients to create bold and flavorful dishes.",
@@ -157,6 +166,7 @@
             {
                 "recipe_id": "10recipeID",
                 "recipe_name": "Chiles Rellenos",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Poblano peppers",
                     "Ground beef",
@@ -170,6 +180,7 @@
             {
                 "recipe_id": "11recipeID",
                 "recipe_name": "Pico de Gallo",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Tomatoes",
                     "Onion",
@@ -183,6 +194,7 @@
             {
                 "recipe_id": "12recipeID",
                 "recipe_name": "Enchiladas Verdes",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Corn tortillas",
                     "Chicken",
@@ -198,7 +210,7 @@
     {
         "id": "745DQO",
         "chef_name": "Anna Lee",
-        "chef_image": "https://example.com/chef5.jpg",
+        "chef_image": "https://i.ibb.co/JCzWp7J/chef4.png",
         "experience": "15+ years",
         "likes": 2500,
         "short_description": "Chef Anna specializes in vegan and vegetarian cuisine, using innovative techniques and fresh, seasonal ingredients to create delicious and healthy dishes.",
@@ -206,6 +218,7 @@
             {
                 "recipe_id": "13recipeID",
                 "recipe_name": "Mushroom Risotto",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Arborio rice",
                     "Mushrooms",
@@ -219,6 +232,7 @@
             {
                 "recipe_id": "14recipeID",
                 "recipe_name": "Roasted Beet Salad",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Beets",
                     "Baby spinach",
@@ -232,6 +246,7 @@
             {
                 "recipe_id": "15recipeID",
                 "recipe_name": "Vegan Shepherd's Pie",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Lentils",
                     "Potatoes",
@@ -247,7 +262,7 @@
     {
         "id": "689VYH",
         "chef_name": "Simon Chen",
-        "chef_image": "https://example.com/chef6.jpg",
+        "chef_image": "https://i.ibb.co/XWsqn83/chef1.png",
         "experience": "25+ years",
         "likes": 3500,
         "short_description": "Chef Simon is a master of fusion cuisine, blending traditional Chinese cooking techniques with modern ingredients to create bold and flavorful dishes.",
@@ -255,6 +270,7 @@
             {
                 "recipe_id": "16recipeID",
                 "recipe_name": "General Tso's Chicken Tacos",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Chicken thighs",
                     "Flour tortillas",
@@ -268,6 +284,7 @@
             {
                 "recipe_id": "17recipeID",
                 "recipe_name": "Miso-glazed Cod",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Cod fillets",
                     "Miso paste",
@@ -281,6 +298,7 @@
             {
                 "recipe_id": "18recipeID",
                 "recipe_name": "Beef and Broccoli Stir-fry",
+                "image_url": "https://example.com/recipe_image.jpg",
                 "ingredients": [
                     "Flank steak",
                     "Broccoli",
