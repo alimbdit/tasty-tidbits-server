@@ -7,11 +7,26 @@ const cors = require('cors');
 
 
 const allChef = require('./data/chef.json');
+const blogs = require('./data/blog.json');
 
 app.use(cors());
 
 app.get('/', (req, res) => {
     res.send('Chef is running.')
+})
+
+app.get('/blog', (req, res) => {
+    res.send(blogs);
+})
+
+app.get('/blog/:id', (req, res) => {
+    const id = req.params.id;
+    const targetBlog = blogs.find(blog => blog.blog_id === id);
+    res.send(targetBlog)
+})
+
+app.get('/chef', (req, res) => {
+    res.send(allChef)
 })
 
 app.get('/chef/:id', (req, res) => {
@@ -20,9 +35,6 @@ app.get('/chef/:id', (req, res) => {
     res.send(targetChef);
 })
 
-app.get('/chef', (req, res) => {
-    res.send(allChef)
-})
 
 
 

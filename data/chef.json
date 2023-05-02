@@ -19,7 +19,7 @@
                     "Edamame"
                 ],
                 "cooking_method": "Dice the tuna and mix with soy sauce and rice vinegar. Serve over a bed of rice and top with sliced cratingucumber and edamame.",
-                "": 4.5
+                "rating": 4.5
             },
             {
                 "recipe_id": "02recipeID",
