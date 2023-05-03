@@ -1,0 +1,39 @@
+[
+    {
+        "customer_id": 1,
+        "customer_photo": "https://i.ibb.co/NSfjSsw/Olivia-Kim.png",
+        "customer_name": "Olivia Kim",
+        "customer_designation": "Financial Analyst",
+        "food_rating": 4.5,
+        "short_review": "The food was delicious! I especially loved the pasta dish."
+    },
+    {
+        "customer_id": 2,
+        "customer_photo": "https://i.ibb.co/k0Fdh51/Jane-Smith.png",
+        "customer_name": "Jane Smith",
+        "customer_designation": "Designer",
+        "food_rating": 3.0,
+        "short_review": "The food was decent, but the portion sizes were too small for the price."
+    },
+    {
+        "customer_id": 3,
+        "customer_photo": "https://i.ibb.co/R6MCBnC/David-Lee.png",
+        "customer_name": "David Lee",
+        "customer_designation": "Food Blogger",
+        "food_rating": 5.0,
+        "short_review": "This restaurant exceeded my expectations! Every dish was incredible, and the service was outstanding."
+    },
+    {
+        "customer_id": 4,
+        "customer_photo": "https://i.ibb.co/N1G9cD8/sarah-chen.png",
+        "customer_name": "Sarah Chen",
+        "customer_designation": "Photographer",
+        "food_rating": 2.5,
+        "short_review": "While the food tasted good, I was disappointed to find out that they didn't have many healthy options on the menu."
+    }
+]
+
+
+
+
+

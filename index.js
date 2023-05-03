@@ -8,6 +8,7 @@ const cors = require('cors');
 
 const allChef = require('./data/chef.json');
 const blogs = require('./data/blog.json');
+const reviews = require('./data/reviews.json');
 
 app.use(cors());
 
@@ -19,10 +20,22 @@ app.get('/blog', (req, res) => {
     res.send(blogs);
 })
 
+
 app.get('/blog/:id', (req, res) => {
     const id = req.params.id;
     const targetBlog = blogs.find(blog => blog.blog_id === id);
     res.send(targetBlog)
+})
+
+
+app.get('/reviews', (req, res) => {
+    res.send(reviews);
+})
+
+app.get('/reviews/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const singleReview = reviews.find(review => review.customer_id === id);
+    res.send(singleReview)
 })
 
 app.get('/chef', (req, res) => {
