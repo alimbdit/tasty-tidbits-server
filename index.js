@@ -47,7 +47,33 @@ app.get('/chef/:id', (req, res) => {
     const targetChef = allChef.find(chef => chef.id === id);
     res.send(targetChef);
 })
+app.get('/recipes', (req, res) => {
+    let allRecipesArray = [];
+    const allRecipes = allChef.map(chef => chef.recipes);
+    for(const recipe of allRecipes){
+        for(const everyRecipe of recipe){
+            allRecipesArray.push(everyRecipe)
+        }
+    }
+    res.send(allRecipesArray);
+})
 
+app.get('/recipes/:id', (req, res) => {
+
+    const id = req.params.id;
+
+    let allRecipesArray = [];
+    const allRecipes = allChef.map(chef => chef.recipes);
+    for(const recipe of allRecipes){
+        for(const everyRecipe of recipe){
+            allRecipesArray.push(everyRecipe)
+        }
+    }
+    const targetRecipe = allRecipesArray.find(recipe=>recipe.recipe_id === id);
+
+
+    res.send(targetRecipe);
+})
 
 
 
